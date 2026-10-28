@@ -1,5 +1,5 @@
 # modelos-email-HTML
-Antes, no meu trabalho, os e-mails aos clientes eram textos do Word copiados e colados. Agora com código HTML e CSS, esses modelos ganharam mais vida com cores que representam a empresa.
+Antes, no meu trabalho, alguns assuntos eram encaminhados como modelos aos clientes com textos do Word copiados e colados. Então criei esse projeto para reestilizar esses modelos, deixando eles mais agraAgora com código HTML e CSS, esses modelos ganharam mais vida com cores que representam a empresa.
 
 ## Tecnologias
 - HTML
@@ -12,7 +12,7 @@ Antes, no meu trabalho, os e-mails aos clientes eram textos do Word copiados e c
 
 Esse é o antes e depois do redesing dos modelos de e-mail:
  
- ## 1. Rastreamento
+ ## 1. Modelo de Rastreamento
   
 <table>
   <tr>
@@ -29,7 +29,7 @@ Esse é o antes e depois do redesing dos modelos de e-mail:
   </tr>
 </table>
 
-## 2. Retirada
+## 2. Modelo de Retirada
 
 <table>
   <tr>
@@ -46,7 +46,7 @@ Esse é o antes e depois do redesing dos modelos de e-mail:
   </tr>
 </table>
 
-## 3. Cotação
+## 3. Modelo de Cotação de frete
 
 <table>
   <tr>
