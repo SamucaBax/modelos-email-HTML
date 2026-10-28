@@ -1,5 +1,5 @@
 # modelos-email-HTML
-Antes, no meu trabalho, alguns assuntos eram encaminhados como modelos aos clientes com textos do Word copiados e colados. Então criei esse projeto para reestilizar esses modelos, deixando eles mais agraAgora com código HTML e CSS, esses modelos ganharam mais vida com cores que representam a empresa.
+Antes, no meu trabalho, alguns assuntos eram encaminhados como modelos aos clientes com textos do Word copiados e colados. Então criei esse projeto para reestilizar esses modelos, deixando eles mais agradáveis de ler. Agora com código HTML e CSS, esses modelos ganharam mais vida com cores que representam a empresa.
 
 ## Tecnologias
 - HTML
